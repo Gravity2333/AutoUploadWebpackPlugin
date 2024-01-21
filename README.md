@@ -1,0 +1,2 @@
+# AutoUploadWebpackPlugin
+一个可以将webpack打包代码自动上传到服务器的插件
